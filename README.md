@@ -22,7 +22,6 @@ is tied to a specific business action.
 | At Risk + Lost customers | 32,742 customers going cold | Recoverable revenue opportunity |
 | Problem sellers | 4 out of 632 scoring below 3.0 | Immediate reputation risk |
 | Platform growth rate | 22.8% avg month-over-month | Validates further investment |
-| Peak revenue month | R$987,765 in November 2017 |
 | Top category revenue | R$1.23M — Health & Beauty | Priority for marketing spend |
 
 ---
