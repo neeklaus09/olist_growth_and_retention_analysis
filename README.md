@@ -93,18 +93,6 @@ the SLA system is working well.
 
 ---
 
-## Tech Stack
-| Tool | Purpose |
-|---|---|
-| PostgreSQL | Relational database, complex SQL queries |
-| Python | EDA, visualization, segmentation |
-| pandas | Data manipulation and cleaning |
-| matplotlib / seaborn | Charts and visualizations |
-| Power BI | Interactive 2-page business dashboard |
-| SQLAlchemy | Python to PostgreSQL connection |
-
----
-
 ## Project Structure
 ```
 olist-growth-and-retention-analysis/
@@ -124,33 +112,6 @@ olist-growth-and-retention-analysis/
 └── README.md
 ```
 
----
-
-## How to Run
-
-**1. Download the dataset from Kaggle:**
-```
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-```
-
-**2. Place CSV files in a `data/` folder and run ingestion:**
-```bash
-pip install -r requirements.txt
-python ingestion_db.py
-```
-
-**3. Update the connection string in eda.ipynb:**
-```python
-engine = create_engine(
-    'postgresql+psycopg2://username:password@localhost:5432/dbname'
-)
-```
-
-**4. Run all cells in `notebooks/eda.ipynb`**
-
-**5. Open `dashboard/olist_dashboard.pbix` in Power BI Desktop**
-
----
 
 ## Dataset
 - **Source:** Kaggle — Brazilian E-Commerce Public Dataset by Olist
