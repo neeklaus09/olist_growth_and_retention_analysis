@@ -34,21 +34,21 @@ is tied to a specific business action.
 
 ## Business Problems Solved
 
-### Problem 1 — Revenue by Category
+### Problem 1 : Revenue by Category
 Which product categories deserve the most investment?
 
 **Finding:** Health & Beauty leads at R$1.23M but Watches & Gifts
 has the highest value per order at R$199 . two categories that
 need completely different growth strategies.
 
-### Problem 2 — Revenue Growth Trend
+### Problem 2 : Revenue Growth Trend
 Is the business growing sustainably or just spiking?
 
 **Finding:** 22.8% average month-over-month growth driven by
 new customer acquisition - not price increases. A healthy signal
 that validates further platform investment.
 
-### Problem 3 — Delivery vs Customer Satisfaction
+### Problem 3 : Delivery vs Customer Satisfaction
 How much does a late delivery actually cost the business?
 
 **Finding:** Late deliveries score 2.57/5 vs 4.29/5 for on-time —
@@ -56,7 +56,7 @@ a 67% gap. 7,700 orders (8%) were late, each representing a
 customer unlikely to return. On-time orders arrive 13 days early
 on average . Olist's conservative estimates are working.
 
-### Problem 4 — RFM Customer Segmentation
+### Problem 4 : RFM Customer Segmentation
 Who are the most valuable customers and who is about to leave?
 
 **Finding:** 21,959 Champion customers generate R$6.9M — nearly
@@ -65,7 +65,7 @@ represent recoverable revenue through targeted win-back campaigns.
 97% of customers are one-time buyers , retention is the
 platform's biggest long-term challenge.
 
-### Problem 5 — Seller Performance
+### Problem 5 : Seller Performance
 Which sellers are assets and which are liabilities?
 
 **Finding:** 68% of sellers score above 4.0. But 4 sellers score
@@ -77,17 +77,17 @@ the SLA system is working well.
 
 ## Key Recommendations
 
-1. **Investigate the 4 problem sellers immediately** —
+1. **Investigate the 4 problem sellers immediately** :
    poor reviews despite on-time delivery signals product
    quality issues that standard SLAs cannot fix
 
-2. **Protect Champion customers** — 24% generating 50%
+2. **Protect Champion customers** : 24% generating 50%
    of revenue need a loyalty programme before they churn
 
-3. **Win back At Risk customers** — 17,924 customers going
+3. **Win back At Risk customers** : 17,924 customers going
    cold are cheaper to retain than acquiring new ones
 
-4. **Reduce late deliveries** — 7,700 late orders scoring
+4. **Reduce late deliveries** : 7,700 late orders scoring
    67% lower is the single highest-impact operational fix
 
 ---
